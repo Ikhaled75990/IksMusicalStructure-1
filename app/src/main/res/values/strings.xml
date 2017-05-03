@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Ik\'s Musical Structure</string>
+    <string name="songs">SONGS</string>
+    <string name="albums">ALBUMS</string>
+    <string name="artists">ARTISTS</string>
+    <string name="playlists">PLAYLISTS</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="playing">PLAYING</string>
+    <string name="wonderful_tonight">Wonderful Tonight - Eric Clapton</string>
+    <string name="tnt">T.N.T. - AC / DC</string>
+    <string name="paradise_city">Paradise City - Guns N\' Roses</string>
+    <string name="beat_it">Beat It - Michael Jackson</string>
+    <string name="sunshine">Ain\'t No Sunshine - Bill Withers</string>
+    <string name="enter_sandman">Enter Sandman - Metallica</string>
+    <string name="your_love">Your Love Picks Me Up - Nicole Moudaber</string>
+    <string name="eric_clapton"> ERIC CLAPTION</string>
+    <string name="ac_dc">AC/DC</string>
+    <string name="guns_n_roses"> GUNS N\' ROSES</string>
+    <string name="michael_jackson">MICHAEL JACKSON</string>
+    <string name="bill_withers">BILL WITHERS</string>
+    <string name="metallica">METALLICA</string>
+    <string name="nicole_moudaber">NICOLE MOUDABER</string>
+    <string name="best_of_clapton">BEST OF CLAPTON</string>
+    <string name="tnt_album">T.N.T ALBUM</string>
+    <string name="appetite_for_destruction">APPETITE FOR DESTRUCTION</string>
+    <string name="thriller">THRILLER</string>
+    <string name="just_as_i_am">JUST AS I AM</string>
+    <string name="metallica_album">METALLICA (ALBUM)</string>
+    <string name="true_rave">TRUE RAVE</string>
+    <string name="add_playlist">Add Playlist</string>
+</resources>

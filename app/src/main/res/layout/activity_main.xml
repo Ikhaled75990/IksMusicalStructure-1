@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#263238"
+    android:orientation="vertical"
+    tools:context="com.example.android.iksmusicalstructure.MainActivity">
+
+    <TextView
+        android:id="@+id/now_playing"
+        style="@style/CategoryStyle"
+        android:background="#37474F"
+        android:drawableLeft="@mipmap/playlist"
+        android:text="@string/now_playing" />
+
+    <TextView
+        android:id="@+id/songs"
+        style="@style/CategoryStyle"
+        android:background="#263238"
+        android:drawableLeft="@mipmap/songs"
+        android:text="@string/songs" />
+
+    <TextView
+        android:id="@+id/albums"
+        style="@style/CategoryStyle"
+        android:background="#37474F"
+        android:drawableLeft="@mipmap/album"
+        android:text="@string/albums" />
+
+    <TextView
+        android:id="@+id/artists"
+        style="@style/CategoryStyle"
+        android:background="#263238"
+        android:drawableLeft="@mipmap/android"
+        android:text="@string/artists" />
+
+    <TextView
+        android:id="@+id/playlists"
+        style="@style/CategoryStyle"
+        android:background="#37474F"
+        android:drawableLeft="@mipmap/playlist"
+        android:text="@string/playlists" />
+
+</LinearLayout>
